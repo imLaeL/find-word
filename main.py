@@ -1,5 +1,6 @@
 import os
 
+#Digite a string
 string = str(input("Digite a string: "))
 
 diretorio_corrente = str(input("Digite o caminho completo do diretório que deseja verificar: "))
